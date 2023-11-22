@@ -11,7 +11,7 @@ e-mail: 1193210215@stu.jiangnan.edu.cn
 qq: 3536607431
 
 __________________________________________________________________________________________________________________________
-Then organize these files as follows:
+PLease organize files as follows:
 - 2024NFL-JNU
   - LICENSE
   - README.md
