@@ -74,3 +74,4 @@ tackles.csv：每场比赛和比赛的球员级别的铲球信息，关键变量
 
 tracking_week_[week].csv：包含第[week]周的球员追踪数据，关键变量：gameId、playId和nflId。
 
+More details are listed at https://www.kaggle.com/code/gvyshnya/nfl-bdb-2024-detailed-eda-and-animations
