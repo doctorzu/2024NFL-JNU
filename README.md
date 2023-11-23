@@ -57,8 +57,14 @@ Examples to consider:
 
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 数据集信息：
+
 games.csv：比赛信息，关键变量：gameId
+
 plays.csv：比赛的比赛级别信息，关键变量：gameId和playId。
+
 players.csv：球员级别信息，关键变量：nflId。
+
 tackles.csv：每场比赛和比赛的球员级别的铲球信息，关键变量：gameId、playId和nflId。
+
 tracking_week_[week].csv：包含第[week]周的球员追踪数据，gameId、playId和nflId。
+
