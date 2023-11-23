@@ -42,3 +42,23 @@ Please organize files as follows:
     - tracking_week_7.csv
     - tracking_week_8.csv
     - tracking_week_9.csv
+
+__________________________________________________________________________________________________________________________
+Goal: create metrics that assign value to elements of tackling. 
+
+Examples to consider:
+• Predictions of tackle time, probability, and/or location
+• Tackle range: angle of pursuit, speed and acceleration, closing speed
+• Player evaluation (e.g, yards saved, tackle value, missed tackles)
+• Credit assignment (e.g, one player makes a tackle because of another players, blocks shed, area of influence)
+• Tackle type (solo vs gang, open field vs in the trenches, etc)
+• Team and player roles and responsibilities (setting the edge, filling gaps, etc)
+
+
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+数据集信息：
+games.csv：比赛信息，关键变量：gameId
+plays.csv：比赛的比赛级别信息，关键变量：gameId和playId。
+players.csv：球员级别信息，关键变量：nflId。
+tackles.csv：每场比赛和比赛的球员级别的铲球信息，关键变量：gameId、playId和nflId。
+tracking_week_[week].csv：包含第[week]周的球员追踪数据，gameId、playId和nflId。
