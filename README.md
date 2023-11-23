@@ -47,13 +47,18 @@ ________________________________________________________________________________
 Goal: create metrics that assign value to elements of tackling. 
 
 Examples to consider:
-• Predictions of tackle time, probability, and/or location
-• Tackle range: angle of pursuit, speed and acceleration, closing speed
-• Player evaluation (e.g, yards saved, tackle value, missed tackles)
-• Credit assignment (e.g, one player makes a tackle because of another players, blocks shed, area of influence)
-• Tackle type (solo vs gang, open field vs in the trenches, etc)
-• Team and player roles and responsibilities (setting the edge, filling gaps, etc)
 
+• Predictions of tackle time, probability, and/or location
+
+• Tackle range: angle of pursuit, speed and acceleration, closing speed
+
+• Player evaluation (e.g, yards saved, tackle value, missed tackles)
+
+• Credit assignment (e.g, one player makes a tackle because of another players, blocks shed, area of influence)
+
+• Tackle type (solo vs gang, open field vs in the trenches, etc)
+
+• Team and player roles and responsibilities (setting the edge, filling gaps, etc)
 
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 数据集信息：
